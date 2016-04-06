@@ -16,7 +16,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".GigALoanRegistration1" />
-        <activity android:name=".Client_Registration_Page"></activity>
     </application>
 
 </manifest>
