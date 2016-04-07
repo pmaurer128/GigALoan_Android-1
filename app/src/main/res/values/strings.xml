@@ -7,7 +7,7 @@
     <string name="register_bttn_text">Register!</string>
     <string name="Client_ck_box_text">Client</string>
     <string name="UserType_Message_text">What Type of user are you????</string>
-    <string name="register_text">Register!!!</string>
     <string name="no_rbttn">N</string>
+    <string name="Continue_bttn_text">Continue</string>
 
 </resources>
