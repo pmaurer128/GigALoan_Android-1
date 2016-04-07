@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gusta.gigaloan">
+<manifest package="com.example.gusta.gigaloan"
+          xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:allowBackup="true"
@@ -10,12 +10,14 @@
         android:theme="@style/AppTheme">
         <activity android:name=".GigALoanLogIn">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.MAIN"/>
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".GigALoanRegistration1" />
+        <activity android:name=".GigALoanRegistration1"/>
+        <activity android:name=".GigALoanRegistrationPage2">
+        </activity>
     </application>
 
 </manifest>
