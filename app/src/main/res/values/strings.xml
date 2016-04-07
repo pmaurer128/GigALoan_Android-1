@@ -9,5 +9,7 @@
     <string name="UserType_Message_text">What Type of user are you????</string>
     <string name="no_rbttn">N</string>
     <string name="Continue_bttn_text">Continue</string>
+    <string name="personla_info">Personal Information</string>
+    <string name="fname">First Name</string>
 
 </resources>

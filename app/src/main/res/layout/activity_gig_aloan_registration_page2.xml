@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Personal Information"
+        android:text="@string/personla_info"
         android:id="@+id/personala_info_text"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -33,7 +33,7 @@
         <TextView
             android:layout_width="118dp"
             android:layout_height="50dp"
-            android:text="First Name"
+            android:text="@string/fname"
             android:id="@+id/f_name_text"
             android:layout_row="0"
             android:layout_column="0"
