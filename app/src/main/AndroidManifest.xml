@@ -18,6 +18,8 @@
         <activity android:name=".GigALoanRegistration1"/>
         <activity android:name=".GigALoanRegistrationPage2">
         </activity>
+        <activity android:name=".Student_Information">
+        </activity>
     </application>
 
 </manifest>

@@ -88,22 +88,13 @@
             android:textSize="18sp"/>
 
         <EditText
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="phone"
             android:ems="10"
             android:id="@+id/phone_number_tf"
             android:layout_row="3"
             android:layout_column="1"/>
-
-        <TextView
-            android:layout_width="86dp"
-            android:layout_height="37dp"
-            android:text="Gender"
-            android:id="@+id/gender_txt"
-            android:layout_row="7"
-            android:layout_column="0"
-            android:textSize="18sp"/>
 
         <RadioButton
             android:layout_width="wrap_content"
@@ -113,6 +104,15 @@
             android:layout_row="7"
             android:layout_column="1"
             android:checked="false"/>
+
+        <TextView
+            android:layout_width="86dp"
+            android:layout_height="37dp"
+            android:text="Gender"
+            android:id="@+id/gender_txt"
+            android:layout_row="8"
+            android:layout_column="0"
+            android:textSize="18sp"/>
 
         <RadioButton
             android:layout_width="wrap_content"
